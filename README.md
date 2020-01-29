@@ -1,24 +1,15 @@
-# vue-movie-search
+# Vue movie search
 
-## Project setup
-```
-npm install
-```
+Super simple basic example movie search made with **VueJs**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Front-end framework : Uikit
+[UiKit home page](https://getuikit.com/)
+[Uikit on GitHub](https://github.com/uikit/uikit)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Omdbapi for api service
+[Omdbapi home page](http://www.omdbapi.com/)
 
-### Lints and fixes files
-```
-npm run lint
-```
+You need to get the ApiKey from OmniApi 
+[Get the ApiKey](http://www.omdbapi.com/apikey.aspx)  
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+*Note: Project for study only*
